@@ -42,4 +42,6 @@ The final output consists of:
 2. Full Script: A conversational podcast monologue ready for narration.
 3. Image Prompt: A descriptive AI-generated prompt for a podcast cover image.
 
-## Result 
+## Future Enhancements
+- Integration with text-to-speech (TTS) for audio generation.
+- Expansion to include multi-speaker podcast formats.
