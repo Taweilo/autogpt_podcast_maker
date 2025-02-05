@@ -1,1 +1,7 @@
-# autogpt_podcast_maker
+# Autogpt - podcast maker
+
+## Agent role
+
+## Step
+
+## Output 
