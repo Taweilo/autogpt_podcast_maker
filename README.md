@@ -2,7 +2,7 @@
 AutoGPT - Podcast Maker is an AI-powered pipeline designed to generate structured solo podcast episodes. It automates the process of creating a podcast agenda, script, and AI-generated cover image, leveraging OpenAI's LLMs and Wikipedia for context enrichment.
 
 ![Podcast Cover](https://github.com/Taweilo/autogpt_podcast_maker/blob/main/podcast.png)
-[![Listen to the Podcast](https://img.shields.io/badge/Listen%20Now-Click%20Here-blue)](https://github.com/Taweilo/autogpt_podcast_maker/blob/main/final_podcast.wav)
+![Listen to the Podcast]](https://github.com/Taweilo/autogpt_podcast_maker/blob/main/final_podcast.wav)
 
 ## Dependencies
 - OpenAI API
